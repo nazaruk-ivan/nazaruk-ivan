@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Ivan</h1>
 <h3 align="center">Student at City St George's, University of London doing a BSc in Computer Science(1st year).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazarukiv" alt="nazarukiv" /></a> </p>
-
 - 📫 How to reach me **nazaruk7649@ukr.net**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,4 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazarukiv&show_icons=true&locale=en" alt="nazarukiv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazarukiv&" alt="nazarukiv" /></p>
